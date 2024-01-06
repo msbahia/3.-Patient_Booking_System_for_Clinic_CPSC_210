@@ -1,0 +1,17 @@
+{
+    "patientBookings": [
+        {
+            "patientName": "Jasmeen",
+            "bookingTime": 10
+        },
+        {
+            "patientName": "Ritik",
+            "bookingTime": 12
+        },
+        {
+            "patientName": "Malkeet",
+            "bookingTime": 21
+        }
+    ],
+    "doctorName": "Roselyn"
+}
